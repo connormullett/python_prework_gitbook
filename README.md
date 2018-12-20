@@ -47,5 +47,31 @@ LinkedIn is the Social Media Platform for businesses and networking. Many recrui
 
 This task is for admissions and career services. They will help guide you with making your profile look the most appealing to potential employers. It does not have to be perfect yet, but take consideration and time building it out.
 
+## Windows Users
+
+#### Linux Subsystem
+
+We are also going to need a tool built into windows that will make our lives a lot easier. Windows and python are known to tango in the wrong with each other. How we can get around this, is using a windows built in feature that will create a new sub directory that python is familiar with. If you have ever had of Linux, we are basically creating \(not removing anything on your PC\) a new Linux environment. This feature is built into Windows 10 and is completely safe
+
+#### Read Instructions first before executing, this install requires a restart
+
+* Make sure windows is up to date
+* Click the Cortana button or search bar, and type `windows features` 
+* Click `turn windows features on or off` 
+* A new window will appear, scroll down to the bottom and make sure `Windows subsystem for Linux` 
+* Click OK, and restart your computer after everything closes if it does not prompt you to
+* After logging back in, open up the Microsoft store by clicking the Cortana button or search bar, and type `microsoft store` 
+* Up at the top, click search and search for `Ubuntu` . Ubuntu is a great, easy, popular Linux environment because of its ease of access and similarity to other operating systems.
+* Click Ubuntu, use the image below as reference for what app to choose
+
+![](.gitbook/assets/ubuntu_app.png)
+
+* In the top right click `get` 
+* Once the app has been installed click launch, this will do the initial install of the Ubuntu directory
+* You can also get here by clicking on the Cortana button or the search bar, and type Ubuntu
+* Once the install is complete, follow the prompt to create new UNIX usernames and password
+* After that, you should see `{the username you enterered}@{your computers name}:~$` 
+* If you see this, you are done. We will not be using this environment until the course starts. Go ahead and close it and continue to the next parts
+
 
 
